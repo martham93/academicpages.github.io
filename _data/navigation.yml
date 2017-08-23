@@ -4,17 +4,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+   # url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "Resume"
-    url: /cv/
+    url: /resume/
     
   - title: "Guide"
     url: /markdown/
