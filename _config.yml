@@ -83,7 +83,6 @@ author:
   bio              : "U.C. Berkeley Alumn, Graduate Student at C.U. Boulder"
   location         : "Boulder, CO"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : martha.morrissey@colorado.edu
   uri              :
   bitbucket        :
@@ -98,13 +97,11 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/martha-morrissey-6162a8104/"
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
