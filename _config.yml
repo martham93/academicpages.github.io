@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martha Morrissey"
 title_separator          : "-"
 name                     : &name "Martha Morrissey"
-description              : U.C. Berkeley Alumn, Graduate Student at CU Boulder"
+description              : U.C. Berkeley Alumn, Graduate Student at C.U. Boulder"
 url                      : https://martham93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Martha Morrissey"
+  avatar           : "IMG_3414.JPG"
+  bio              : "U.C. Berkeley Alumn, Graduate Student at C.U. Boulder"
+  location         : "Boulder, CO"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : martha.morrissey@colorado.edu
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/martham93"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/martha-morrissey-6162a8104/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
